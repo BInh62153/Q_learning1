@@ -1,0 +1,4 @@
+| Agent          | Tabular    | DQN | Double-Q | PriReplay | A* | Q-Visualization |
+| -------------- | ---------- | --- | -------- | --------- | -- | --------------- |
+| QLearningAgent | y          | n   |    n     |   simple  | n  | discretized     |
+| AdvancedAgent  | y fallback | y   |    y     |     y     | y  |      y          |
